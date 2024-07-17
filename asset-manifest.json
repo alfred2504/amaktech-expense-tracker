@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/amaktech-expense-tracker/static/css/main.351c7047.css",
+    "main.js": "/amaktech-expense-tracker/static/js/main.1ea5c755.js",
+    "static/js/453.216cca33.chunk.js": "/amaktech-expense-tracker/static/js/453.216cca33.chunk.js",
+    "index.html": "/amaktech-expense-tracker/index.html",
+    "main.351c7047.css.map": "/amaktech-expense-tracker/static/css/main.351c7047.css.map",
+    "main.1ea5c755.js.map": "/amaktech-expense-tracker/static/js/main.1ea5c755.js.map",
+    "453.216cca33.chunk.js.map": "/amaktech-expense-tracker/static/js/453.216cca33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.351c7047.css",
+    "static/js/main.1ea5c755.js"
+  ]
+}
